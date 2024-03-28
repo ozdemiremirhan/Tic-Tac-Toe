@@ -1,0 +1,12 @@
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\bin\Debug\OOP2_Lab4.exe.config
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\bin\Debug\OOP2_Lab4.exe
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\bin\Debug\OOP2_Lab4.pdb
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.csproj.AssemblyReference.cache
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.Form1.resources
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.Properties.Resources.resources
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.csproj.GenerateResource.cache
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.exe
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.pdb
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\bin\Debug\testScript.dll
+C:\Users\emirh_2l75nrs\source\repos\OOP2_Lab4\OOP2_Lab4\obj\Debug\OOP2_Lab4.csproj.CopyComplete

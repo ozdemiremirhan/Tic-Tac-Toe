@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <ID>1</ID>
+    <UserType>admin</UserType>
+    <Username>admin</Username>
+    <Password>admin</Password>
+    <NameSurname>Admin ADMIN</NameSurname>
+    <Mail>admin@mail.com</Mail>
+  </user>
+  <user>
+    <ID>2</ID>
+    <UserType>user</UserType>
+    <Username>user</Username>
+    <Password>user</Password>
+    <NameSurname>User USER</NameSurname>
+    <Mail>user@mail.com</Mail>
+  </user>
+  <user>
+    <ID>3</ID>
+    <UserType>user</UserType>
+    <Username>CrazyHasan</Username>
+    <Password>123456</Password>
+    <NameSurname>Hassan Moshtaq</NameSurname>
+    <Mail>hassan@mail.com</Mail>
+  </user>
+</users>
